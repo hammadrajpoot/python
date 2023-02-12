@@ -1,9 +1,4 @@
-5
-9
-8
-4
-2
-
-
-** Process exited - Return Code: 0 **
-Press Enter to exit terminal
+from array  import *
+a =array('i',[5,9,8,4,2])
+for i in range(5):
+    print(a[i])
